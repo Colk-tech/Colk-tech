@@ -10,3 +10,6 @@
 ![GO: RUNNING](https://img.shields.io/badge/GO-RUNNING-informational?style=for-the-badge)
 ![Rust: WANTED](https://img.shields.io/badge/Rust-WANTED-red?style=for-the-badge)
 ![Career: Building](https://img.shields.io/badge/Career-BUILDING-yellow?style=for-the-badge)
+
+
+![SecHack365: 2020 Trainee](https://img.shields.io/badge/SecHack365_2020-Trainee-yellow?style=for-the-badge)
