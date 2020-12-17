@@ -8,4 +8,3 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Colk-tech&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Colk-tech&layout=compact&hide=html)
