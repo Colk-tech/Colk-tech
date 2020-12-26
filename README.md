@@ -5,6 +5,3 @@
 ![Age: 17](https://img.shields.io/badge/Age-17-orange?style=for-the-badge)
 ![SecHack365: 2020 Trainee](https://img.shields.io/badge/SecHack365_2020-Trainee-yellow?style=for-the-badge)
 ![Life: Failing](https://img.shields.io/badge/Life-Failing-red?style=for-the-badge)
-
-
-![](https://github-readme-stats.vercel.app/api?username=Colk-tech&show_icons=true)
