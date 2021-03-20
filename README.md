@@ -54,7 +54,7 @@ Got 3 rd prize in international game programming hackathon using Unity.
 
 Co-developed with [@isso0424](https://github.com/isso0424) and two others.
 
-### 🔑 Took part in SecHack365 by National Institute of Information and Communications - Jun. 2020
+### 🔑 Took part in SecHack365 by National Institute of Information and Communications Technology - Jun. 2020
 Took part in SecHack365 as a trainee.
 
 Learned about security for about a year and created our own product.
