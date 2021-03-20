@@ -33,6 +33,7 @@
 ![東京新聞](https://img.shields.io/badge/-東京新聞-orange?style=for-the-badge)
 ![琉球新報](https://img.shields.io/badge/-琉球新報-orange?style=for-the-badge)
 ![茨城新聞](https://img.shields.io/badge/-茨城新聞-orange?style=for-the-badge)
+![ケーブルテレビ JWAY](https://img.shields.io/badge/-ケーブルテレビ JWAY-orange?style=for-the-badge)
 
 ## Histories
 ### 🎂 Birth - Dec. 2003
