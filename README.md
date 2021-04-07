@@ -61,7 +61,7 @@ Took part in SecHack365 as a trainee.
 Learned about security for about a year and created our own product.
 
 ### 🏢 Started a job in a start-up "C-style, inc" - Oct. 2020
-I was a Developer & Manager of brand new service.
+Developer & Manager of brand new service.
 
 ### 🏆 Got a student award in NITIC (パソコン甲子園2020 モバイル部門) - Nov. 2020
 Created mobile app using Flutter. The app cleared the preliminaries.
