@@ -14,8 +14,8 @@
 ![Python: LOVE](https://img.shields.io/badge/Python-LOVE-blue?style=for-the-badge)
 ![Golang: LOVE](https://img.shields.io/badge/Golang-LOVE-blue?style=for-the-badge)
 
-![C: KANZENRIKAI](https://img.shields.io/badge/C-KANZENRIKAI-orange?style=for-the-badge)
-![Java: KANZENRIKAI](https://img.shields.io/badge/Java-KANZENRIKAI-orange?style=for-the-badge)
+![C: GOOD](https://img.shields.io/badge/C-GOOD-orange?style=for-the-badge)
+![Java: GOOD](https://img.shields.io/badge/Java-GOOD-orange?style=for-the-badge)
 
 ![JavaScript: KANZENRIKAI](https://img.shields.io/badge/JavaScript-LEARNING-green?style=for-the-badge)
 ![TypeScript: KANZENRIKAI](https://img.shields.io/badge/TypeScript-LEARNING-green?style=for-the-badge)
