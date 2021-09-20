@@ -70,3 +70,4 @@ Co-developed with [@ko50](https://github.com/ko50) and [@flisan](https://github.
 
 ### 🏢 Co-founded "Xtraveler, inc" and started a job - Feb. 2021
 Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
+(Later Executive Vice President)
