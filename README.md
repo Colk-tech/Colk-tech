@@ -68,6 +68,9 @@ Created mobile app using Flutter. The app cleared the preliminaries.
 
 Co-developed with [@ko50](https://github.com/ko50) and [@flisan](https://github.com/flisan)
 
-### 🏢 Co-founded "Xtraveler, inc" and started a job - Feb. 2021
+### 🏢 Co-founded "Xtraveler, Inc" and started a job - Feb. 2021
 Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
 (Later Executive Vice President)
+
+### 🏢 Started a job in a SaaS company "Lovegraph Inc." - Jul. 2023
+Server-Side Engineer of "[Lovegraph](https://lovegraph.me/)".
