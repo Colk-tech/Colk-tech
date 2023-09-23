@@ -16,7 +16,7 @@
 
 ![C: GOOD](https://img.shields.io/badge/C-GOOD-orange?style=for-the-badge)
 ![Java: GOOD](https://img.shields.io/badge/Java-GOOD-orange?style=for-the-badge)
-![Ruby: GOOD](https://img.shields.io/badge/$uby-GOOD-orange?style=for-the-badge)
+![Ruby: GOOD](https://img.shields.io/badge/Ruby-GOOD-orange?style=for-the-badge)
 ![JavaScript: GOOD](https://img.shields.io/badge/JavaScript-GOOD-orange?style=for-the-badge)
 ![TypeScript: GOOD](https://img.shields.io/badge/TypeScript-GOOD-orange?style=for-the-badge)
 
