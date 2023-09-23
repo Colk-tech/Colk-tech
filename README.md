@@ -16,9 +16,9 @@
 
 ![C: GOOD](https://img.shields.io/badge/C-GOOD-orange?style=for-the-badge)
 ![Java: GOOD](https://img.shields.io/badge/Java-GOOD-orange?style=for-the-badge)
-
-![JavaScript: KANZENRIKAI](https://img.shields.io/badge/JavaScript-LEARNING-green?style=for-the-badge)
-![TypeScript: KANZENRIKAI](https://img.shields.io/badge/TypeScript-LEARNING-green?style=for-the-badge)
+![Ruby: GOOD](https://img.shields.io/badge/$uby-GOOD-orange?style=for-the-badge)
+![JavaScript: GOOD](https://img.shields.io/badge/JavaScript-GOOD-orange?style=for-the-badge)
+![TypeScript: GOOD](https://img.shields.io/badge/TypeScript-GOOD-orange?style=for-the-badge)
 
 ## Media - Can be seen in
 ![東京新聞](https://img.shields.io/badge/-東京新聞-orange?style=for-the-badge)
