@@ -1,6 +1,6 @@
 ## Hi there ! 👋
 
-![Twitter: @Colk_](https://img.shields.io/badge/Twiter-@Colk__-blue?style=for-the-badge)
+![X: @Colk_](https://img.shields.io/badge/X-@Colk__-blue?style=for-the-badge)
 ![College: NITIC](https://img.shields.io/badge/School-NITIC-red?style=for-the-badge)
 ![Age: 19](https://img.shields.io/badge/Age-19-orange?style=for-the-badge)
 ![have written code for: 10yrs](https://img.shields.io/badge/Have_written_code_for-10_yrs-critical?style=for-the-badge)
@@ -19,15 +19,6 @@
 
 ![JavaScript: KANZENRIKAI](https://img.shields.io/badge/JavaScript-LEARNING-green?style=for-the-badge)
 ![TypeScript: KANZENRIKAI](https://img.shields.io/badge/TypeScript-LEARNING-green?style=for-the-badge)
-
-### Tools
-![Firebase: LOVE](https://img.shields.io/badge/Firebase-LOVE-blue?style=for-the-badge)
-![Github Actions(CI): LOVE](https://img.shields.io/badge/Github_Actions_(CI)-LOVE-blue?style=for-the-badge)
-
-![Git: LOVE](https://img.shields.io/badge/Git-LOVE-blue?style=for-the-badge)
-![Docker: LOVE](https://img.shields.io/badge/Docker-LOVE-blue?style=for-the-badge)
-![JetBrains: LOVE](https://img.shields.io/badge/JetBrains_IDE-LOVE-blue?style=for-the-badge)
-![Linux: LOVE](https://img.shields.io/badge/Linux-LOVE-blue?style=for-the-badge)
 
 ## Media - Can be seen in
 ![東京新聞](https://img.shields.io/badge/-東京新聞-orange?style=for-the-badge)
