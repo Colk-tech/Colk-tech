@@ -66,7 +66,7 @@ Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
 ### 🏢 Started a job in a SaaS company "Lovegraph Inc." - Jul. 2023
 Server-Side Engineer of "[Lovegraph](https://lovegraph.me/)".
 
-### 🎓️ Enrolled in Ibaraki Univ. - Apr. 2019
-Enrolled in Computer Sciense Course, College of Engineering, Ibaraki University.
+### 🎓️ Enrolled in Department of Computer and Information Sciences, Ibaraki Univ. - Apr. 2019
+Enrolled in Department of Computer and Information Sciences, College of Engineering, Ibaraki University.
 
 ( 茨城大学 工学部 情報工学科 )
