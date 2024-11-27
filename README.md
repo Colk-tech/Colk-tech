@@ -1,7 +1,7 @@
 ## Hi there ! 👋
 
 ![X: @Colk_](https://img.shields.io/badge/X-@Colk__-blue?style=for-the-badge)
-![University: Ibaraki Univ.](https://img.shields.io/badge/University-Ibaraki_Univ.-red?style=for-the-badge)
+![University: University of Tsukuba](https://img.shields.io/badge/University-University_of_Tsukuba-red?style=for-the-badge)
 ![Age: 20](https://img.shields.io/badge/Age-20-orange?style=for-the-badge)
 ![have written code for: 10yrs](https://img.shields.io/badge/Have_written_code_for-10_yrs-critical?style=for-the-badge)
 
@@ -27,9 +27,6 @@
 ![ケーブルテレビ JWAY](https://img.shields.io/badge/-ケーブルテレビ_JWAY-orange?style=for-the-badge)
 
 ## Histories
-### 🎂 Birth - Dec. 2003
-Born in Mito, Japan
-
 ### 🇺🇸 Home stay in U.S.A. - Mar. 2018
 Visited U.S.A. to learn their language and culture
 
@@ -51,22 +48,12 @@ Took part in SecHack365 as a trainee.
 
 Learned about security for about a year and created our own product.
 
-### 🏢 Started a job in a start-up "C-style, inc" - Oct. 2020
-Developer & Manager of brand new service.
-
-### 🏆 Got a student award in NITIC (パソコン甲子園2020 モバイル部門) - Nov. 2020
-Created mobile app using Flutter. The app cleared the preliminaries.
-
-Co-developed with [@ko50](https://github.com/ko50) and [@flisan](https://github.com/flisan)
-
 ### 🏢 Co-founded "Xtraveler, Inc" and started a job - Feb. 2021
 Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
-(Later Executive Vice President)
 
-### 🏢 Started a job in a SaaS company "Lovegraph Inc." - Jul. 2023
-Server-Side Engineer of "[Lovegraph](https://lovegraph.me/)".
+( Later Executive Vice President )
 
-### 🎓️ Enrolled in Department of Computer and Information Sciences, Ibaraki Univ. - Apr. 2024
-Enrolled in Department of Computer and Information Sciences, College of Engineering, Ibaraki University.
+### 🎓️ Enrolled in Department of Computer and Information Sciences, Ibaraki Univ. - Apr. 2025
+Enrolled in College of Knowledge and Library Sciences, School of Informatics, University of Tsukuba.
 
-( 茨城大学 工学部 情報工学科 )
+( 筑波大学 情報学群 知識情報・図書館学類 )
