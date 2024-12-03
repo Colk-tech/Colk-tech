@@ -53,7 +53,7 @@ Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
 
 ( Later Executive Vice President )
 
-### 🎓️ Enrolled in Department of Computer and Information Sciences, Ibaraki Univ. - Apr. 2025
+### 🎓️ Enrolled in School of Informatics, University of Tsukuba. - Apr. 2025
 Enrolled in College of Knowledge and Library Sciences, School of Informatics, University of Tsukuba.
 
 ( 筑波大学 情報学群 知識情報・図書館学類 )
