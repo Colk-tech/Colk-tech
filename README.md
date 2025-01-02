@@ -27,9 +27,6 @@
 ![ケーブルテレビ JWAY](https://img.shields.io/badge/-ケーブルテレビ_JWAY-orange?style=for-the-badge)
 
 ## Histories
-### 🇺🇸 Home stay in U.S.A. - Mar. 2018
-Visited U.S.A. to learn their language and culture
-
 ### 🎓️ Enrolled in Computer Science Course, NITIC - Apr. 2019
 Enrolled in National Institute of Technology, Ibaraki College
 
@@ -42,11 +39,6 @@ Visited famous IT componies to learn how to create products, entrepreneurship, a
 Got 3 rd prize in international game programming hackathon using Unity.
 
 Co-developed with [@isso0424](https://github.com/isso0424) and two others.
-
-### 🔑 Took part in SecHack365 by National Institute of Information and Communications Technology - Jun. 2020
-Took part in SecHack365 as a trainee.
-
-Learned about security for about a year and created our own product.
 
 ### 🏢 Co-founded "Xtraveler, Inc" and started a job - Feb. 2021
 Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
