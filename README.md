@@ -2,7 +2,7 @@
 
 ![X: @Colk_](https://img.shields.io/badge/X-@Colk__-blue?style=for-the-badge)
 ![University: University of Tsukuba](https://img.shields.io/badge/University-University_of_Tsukuba-red?style=for-the-badge)
-![Age: 20](https://img.shields.io/badge/Age-20-orange?style=for-the-badge)
+![Age: 21](https://img.shields.io/badge/Age-21-orange?style=for-the-badge)
 ![have written code for: 10yrs](https://img.shields.io/badge/Have_written_code_for-10_yrs-critical?style=for-the-badge)
 
 ## Skills
@@ -46,6 +46,6 @@ Co-founded "Xtraveler, inc" and started to work as a Server Side Engineer.
 ( Later Executive Vice President )
 
 ### 🎓️ Enrolled in School of Informatics, University of Tsukuba. - Apr. 2025
-Enrolled in College of Knowledge and Library Sciences, School of Informatics, University of Tsukuba.
+Enrolled in Knowledge Information Systems Course, College of Knowledge and Library Sciences, School of Informatics, University of Tsukuba.
 
 ( 筑波大学 情報学群 知識情報・図書館学類 )
