@@ -3,7 +3,7 @@
 ![X: @Colk_](https://img.shields.io/badge/X-@Colk__-blue?style=for-the-badge)
 ![University: University of Tsukuba](https://img.shields.io/badge/University-University_of_Tsukuba-red?style=for-the-badge)
 ![Birthday: Dec 12, 2003](https://img.shields.io/badge/Birthday-Dec_12,_2003-orange?style=for-the-badge)
-![have written code for: 10yrs](https://img.shields.io/badge/Have_written_code_for-10_yrs-critical?style=for-the-badge)
+![have written code for: 10+ yrs](https://img.shields.io/badge/Have_written_code_for-10+_yrs-critical?style=for-the-badge)
 
 ## Skills
 ### General
